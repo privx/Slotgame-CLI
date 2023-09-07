@@ -23,7 +23,7 @@ $ php run.php
 
 ```
 $ pkg install php
-$ git clone https://github.com/privx/slotgame-cli.git
+$ git clone https://github.com/privx/Slotgame-CLI.git
 $ cd slotgame-cli
 $ php run.php
 ```
