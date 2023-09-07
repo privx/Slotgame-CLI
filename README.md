@@ -32,7 +32,7 @@ Guys i really need your help to make it look like the actual game.
 By editing and give me ideas/reference so i can change the code so we can play it even it's Fake. Like i said earlier (just for entertain) ^_^
 
 ## Author
-~Bimagates
+~Bimagates 1% & ChatGPT 99%
 
 ## Changelog ##
 #### Version 0.1.0 (September 07, 2023) ####
